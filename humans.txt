@@ -7,7 +7,7 @@ C Chaplin cchaplin@some.org @cchaplin
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+Thanks to Jason
     <name>
 
 # TECHNOLOGY COLOPHON
