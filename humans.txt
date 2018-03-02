@@ -3,6 +3,7 @@
 
 # TEAM
 
+C Chaplin cchaplin@some.org @cchaplin
     <name> -- <role> -- <twitter>
 
 # THANKS
