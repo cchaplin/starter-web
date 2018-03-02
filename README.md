@@ -16,3 +16,6 @@ Just some random text in the Deployment section
 
 ## How to contribute
 
+### Copyright
+2018 CChaplin
+
