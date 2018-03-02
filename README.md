@@ -18,5 +18,5 @@ Just some random text in the Deployment section
 Please fork this repository and issue pull request for review.
 
 ### Copyright
-2018 CChaplin
+2018 CChaplin. All rights reserved.
 
