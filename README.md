@@ -15,6 +15,7 @@ This is a simple web project, deployment can be on any webserver
 Just some random text in the Deployment section
 
 ## How to contribute
+Please fork this repository and issue pull request for review.
 
 ### Copyright
 2018 CChaplin
